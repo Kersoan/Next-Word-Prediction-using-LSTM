@@ -230,7 +230,7 @@ def create_model(total_words, max_sequence_len):
 
 
 ### 6. Sample Text Prediction
-![image](5out.jpg)
+![image](5.jpg)
 .
 
 ## RESULT
