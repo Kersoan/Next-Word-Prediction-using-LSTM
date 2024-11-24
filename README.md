@@ -210,27 +210,27 @@ def create_model(total_words, max_sequence_len):
 ## OUTPUT
 ### 1. fit_vectorizer output
 
-![image](https://github.com/user-attachments/assets/6a719909-6fe9-44cd-a592-8cddf3bbf621)
+![image](1out.jpg)
 
 ### 2. n_grams_seqs output
-![image](https://github.com/user-attachments/assets/1d49c3a0-efe7-4419-9c3f-c8127845c8f0)
+![image](2out.jpg)
 
 
 ### 3. pad_seqs output
-![image](https://github.com/user-attachments/assets/76c888af-9914-4a31-a868-d78438b1e74d)
+![image](3out.jpg)
 
 
 ### 4. features_and_labels_dataset output
-![image](https://github.com/user-attachments/assets/0768d013-e513-466a-9da2-7b7f6e445ba3)
+![image](4out.jpg)
 
 
 ### 5. Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/user-attachments/assets/e640cf13-9ca2-4385-95a4-3ae9ce9d0c92)
+![image](epochs.jpg)
 
 
 ### 6. Sample Text Prediction
-![image](https://github.com/user-attachments/assets/9c796a1a-2a14-47d4-be82-ef77370d23a0)
+![image](5out.jpg)
 .
 
 ## RESULT
